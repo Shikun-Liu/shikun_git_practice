@@ -1,0 +1,2 @@
+I think sed is pretty useful.
+SED command in UNIX is stands for stream editor and it can perform lot’s of function on file like, searching, find and replace, insertion or deletion.
