@@ -3,9 +3,9 @@ SED command in UNIX is stands for stream editor and it can perform lot’s of fu
 
 For example:
 
-### Sed command is mostly used to replace the text in a file.
+1. Sed command is mostly used to replace the text in a file.
 
-### Replacing the nth occurrence of a pattern in a line. 
+2. Replacing the nth occurrence of a pattern in a line. 
 
 SED command in UNIX is stands for stream editor and it can perform lot’s of function on file like, searching, find and replace, insertion or deletion.
 
