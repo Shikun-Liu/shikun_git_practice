@@ -6,3 +6,10 @@ For example:
 ### Sed command is mostly used to replace the text in a file.
 
 ### Replacing the nth occurrence of a pattern in a line. 
+
+SED command in UNIX is stands for stream editor and it can perform lot’s of function on file like, searching, find and replace, insertion or deletion.
+
+I'm writing something that will cause a conflict but you'll resolve it anyway 
+I don't think sed is useful but if you disagree just delete this sentence. 
+
+Well I guess maybe you're using something better haha.
