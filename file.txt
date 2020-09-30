@@ -1,2 +1,6 @@
 I think sed is pretty useful.
 SED command in UNIX is stands for stream editor and it can perform lot’s of function on file like, searching, find and replace, insertion or deletion.
+
+I'm writing something that will cause a conflict but you'll resolve it anyway 
+I don't think sed is useful but if you disagree just delete this sentence. 
+
